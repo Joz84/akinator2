@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   # get 'games/update'
   # get 'games/show'
 
+
   resources :games
 
   # get 'pages/home'
